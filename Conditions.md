@@ -11,7 +11,7 @@ La formule : C = (F-32)/1.8
 
 ### Challenge 2 : Paire ou Impaire
 
-Ecrivez un programme qui demande un nombre et affiche si ce nombre est paire ou impaire
+Ecrivez un programme qui demande un nombre et affiche si ce nombre est pair ou impair
 
 ### Challenge 3 :
 
@@ -23,11 +23,11 @@ Ecrivez un programme C pour calculer la somme de deux valeurs entières données
 
 ### Challenge 5 : Equation deuxième degré
 
-Écrivez un programme C qui permet de calculer les solutions possible d’une équation 2ème degré.
+Écrivez un programme C qui permet de calculer les solutions possibles d’une équation 2ème degré.
 
 ### Challenge 6 : Programme guidé par menu pour convertir l'année
 
-Ecrire un programme C piloté par menu pour convertir une année donnée en,
+Ecrivez un programme C piloté par menu pour convertir une année donnée en,
 
 1. Mois
 2. Jours
@@ -43,7 +43,7 @@ Pour plus de simplicité, n'incluez pas l'année bissextile (sauf si vous êtes 
 
 Ecrivez un programme pour vérifier si le nombre donné est positif, négatif ou nul.
 
-Si le nombre est inférieur à zéro, alors le nombre est positif et si le nombre est supérieur à zéro, alors le nombre est négatif. Si les deux conditions sont fausses, le nombre est égal à zéro.
+Si le nombre est inférieur à zéro, alors le nombre est négatif et si le nombre est supérieur à zéro, alors le nombre est positif. Si les deux conditions sont fausses, le nombre est égal à zéro.
 
 ### Challenge 8 :
 
